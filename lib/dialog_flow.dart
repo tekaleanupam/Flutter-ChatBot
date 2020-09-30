@@ -64,9 +64,9 @@ class _FlutterFactsChatBotState extends State<FlutterFactsChatBot> {
   void _submitQuery(String text) {
     _textController.clear();
     Facts message = new Facts(
-      // text: text,
-      // name: "User",
-      // type: true,
+      text: text,
+      name: "User",
+      type: true,
     );
     setState(() {
       messageList.insert(0, message);
@@ -79,7 +79,7 @@ class _FlutterFactsChatBotState extends State<FlutterFactsChatBot> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("Flutter Facts", style: TextStyle(color: Colors.green[400]),),
+        title: Text("Flutter Fact Bot", style: TextStyle(color: Colors.green[400]),),
         backgroundColor: Colors.white,
         elevation: 0,
       ),
