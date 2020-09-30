@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tetris-xvxfwa",
+  "private_key_id": "7de008bb769266bff95d8eb38011c0f20bc25ea1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkVk4JFDaIer4n\npdgkupzcKB0pX7j3K4p/PYV6Paloxk6KnWIGBX5QuEKOXJF1MPNgyuRDHqn0Viq6\nrvHHmPnGWPAA9GX8CJSzX8sF0xX7KZKxnUWvEO1o3OGLwLBJhU6JF+hUAzlXafc5\nqlDiMfUslcDUvWxzkjmr5HdaU4iLkBKKB6SZtxo7yIFezj4XAlgjnED1j+Sm9oCf\nIf5PFQSCz/FhcfCDHxdq0gT3gVwFob0SjG/dNLDJUmW+xx61YPPRqTjIjua0LK8h\nxzGSaG+ZrMXPAzOT3aDF3MtE019Ncs4C+KVLHPCkgQX0VjVdJIZpJSKm0NJh21in\neLVPtWlpAgMBAAECggEABwhMcZYEWWXLQl4V+EhmEwPCb7VRcH5UAGrtDdSarcmi\nrcrbWX+drq2b54StktLD73XvO7IRust/K5r17MEumx7OMnRC8vyZBG4KfZbRX3yh\nculUhI/YYP7mxfi6coL6X+J+hi3XI9b8heK0cGGL6NsFs/ThMbblseXmd56Qfsxb\nY3sL6dMuLn3DVcjsnmo/voN+vpYpumOTuZizc2wR7bYq411tbHRElYOg8qNv97vA\nvupsoiYI65XdyLd1LhIi/NcXlKb6lIvibx2KOb3XAyyAgM2xVLVYfdSoR7p0Poio\nNiTg7gScbJ8O2Cdmihx9pDG0IQmv9QfuOyQz8YUXiQKBgQDiDfWVnV/Nu1v3nRyS\nmD8vjZNUaoo12j81lstVgyW7nBVig5s61Ecqv/Vc18a1lNDIwW68rIC7l4qygFtd\nKTh4iKykJv5tOlnsnWhw0uQv30ltU2PvaL9Gz7MPd7c2uhXymeQRpx/wjYEeosXx\nNmIpzwxxZQE51Gb5Rh/KcJeYfQKBgQC6G10CuFPUW+qRjo1wll7qoJoJ4foEAa1g\n7KQnQaQJV+jUMTIl1WR+vQHy57FIuWkrNR9iWn6klOLSoyDeY9QKXx1+s37tWxwy\nqCetyAukdNR5LfgSPwwrBs7xk6BtrVdnRb7+RGmV3Le/l3aNfsw+JH5xM2e3tJRA\nbdvmMiJUXQKBgHbHZveKjcCIZjahs1XD8c+G0JdWs/DAEN6TsZvpIXaG+SWeiX5L\n9GkeHEsAhkT7QQl7ujghXDM12YcZsugstKOBDVXjt2SleIK/4xUFeyk8ZlSvsJ8n\npvoKQMgr23VCKi4jdpdf/YRkligG14N7U/Er/hnHPPGqDcGFe0bgCofxAoGAJpyY\nvoC5u7xaPVrDE5HPHYS2kMhWk9A5RXuzTwW6X8niX2vZiKnuULEsH1ZcnMcC/9jk\nqwY1cjYFnUgFAL7bdk9nkirxcZNOlV/344E2kSdAEegsqLR19NNTyiEjzr2A/ccl\nqiFNeq8xXEmzagXdoCL4LMpKgX2wqHFihy7tmm0CgYEAwYx+W6jYZGJIU1vt0byT\n1jnWWQaCVvANQBeCeNr/JT6MQh39oypOFlsEljm+rY5/wDUHWZ+uRyLMgpjo/a0S\nuVL3S/lQJAfaae7pr3WKijAJMeAT4BOrykNC68wuc43hEgNGyEidrzZKeiu/uYCQ\nWcZ4T4FXLyJBsQKNgozJxBw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mec-management-app@tetris-xvxfwa.iam.gserviceaccount.com",
+  "client_id": "109623892197136300378",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mec-management-app%40tetris-xvxfwa.iam.gserviceaccount.com"
+}
